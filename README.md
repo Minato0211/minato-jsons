@@ -7,6 +7,7 @@
     <img src="https://lanyard.kyrie25.me/api/571723571983024140?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square" align="right"/>
   </a>
   <p>if you have any files you'd like me to create<br>please let me know in my DM!</p>
+  <a href="https://github.com/Minato0211/minato-jsons/blob/main/JSON-LIST.md">JSON LIST</a>
   <h1>Languages</h1>
   <li>
     <a href="README-JP.md"><b><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1ef-1f1f5.svg" width="16"/>Japanese</b></a>
