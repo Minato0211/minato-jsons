@@ -3,6 +3,7 @@
   <h2>Oculus</h2>
   <a href="https://github.com/Minato0211/minato-jsons/blob/main/oculus/hydroculus/4.2/README.md">hydroculus ver4.2</a></br>
   <a href="https://github.com/Minato0211/minato-jsons/blob/main/oculus/hydroculus/4.6/README.md">hydroculus ver4.6</a></br>
+  <a href="https://github.com/Minato0211/minato-jsons/blob/main/oculus/hydroculus/4.6/README.md">hydroculus ver4.6 (Sea of Bygone)</a></br>
   <a href="https://github.com/Minato0211/minato-jsons/blob/main/oculus/SpiritCarp/4.4/README.md">SpiritCarp ver4.4</a></br>
   <h2>Specialty</h2>
   <a href="https://github.com/Minato0211/minato-jsons/blob/main/specialty/lakelight%20lily/README.md">lakelight lily</a></br>
