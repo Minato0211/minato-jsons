@@ -3,6 +3,7 @@
   <h2>神の瞳</h2>
   <a href="https://github.com/Minato0211/minato-jsons/blob/main/oculus/hydroculus/4.2/README.md">失われた水神の瞳 ver4.2</a></br>
   <a href="https://github.com/Minato0211/minato-jsons/blob/main/oculus/hydroculus/4.6/README.md">失われた水神の瞳 ver4.6</a></br>
+  <a href="https://github.com/Minato0211/minato-jsons/blob/main/oculus/hydroculus/4.6_SeaOfBygone/README.md">失われた水神の瞳 ver4.6（往日の海）</a></br>
   <a href="https://github.com/Minato0211/minato-jsons/blob/main/oculus/SpiritCarp/4.4/README.md">蒼霊の鯉 ver4.4</a></br>
   <h2>特産品</h2>
   <a href="https://github.com/Minato0211/minato-jsons/blob/main/specialty/lakelight%20lily/README.md">湖光の鈴蘭</a></br>
