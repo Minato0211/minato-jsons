@@ -1,6 +1,6 @@
 <body>
   <div align="center">
-    <p>NOTE: this is something i made for my 2nd ID and there is folder like "json/filter" or anything (its incomplete json!!)</p></br>
+    <p>NOTE: this is something i made for my 2nd ID and there is folder like "json/filter" or anything (its incomplete json!!)</p>
     <p>common: 72|exquisite: 110|luxurious: 10|precious: 36|remarkable: 28</p>
     <h1>𝑫𝙚𝒕𝙖𝒊𝙡𝒔</h1>
     <p>Chest</p>
