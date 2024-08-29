@@ -9,6 +9,7 @@
   <h2>特産品</h2>
   <a href="https://github.com/Minato0211/minato-jsons/blob/main/specialty/lakelight%20lily/README.md">湖光の鈴蘭</a></br>
   <a href="https://github.com/Minato0211/minato-jsons/blob/main/specialty/lumitoile/README.md">ルエトワール</a></br>
+  <a href="https://github.com/Minato0211/minato-jsons/blob/main/specialty/SprayfeatherGill/README.md">波しぶきのエラ</a></br>
   <h2>ワープポイント/七天神像</h2>
   <a href="https://github.com/Minato0211/minato-jsons/tree/main/teleport-waypoint/fontaine/json/4.1">フォンテーヌ ver4.1</a></br>
 </body>
