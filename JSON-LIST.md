@@ -12,6 +12,8 @@
   <a href="https://github.com/Minato0211/minato-jsons/blob/main/specialty/lakelight%20lily/README.md">lakelight lily</a></br>
   <a href="https://github.com/Minato0211/minato-jsons/blob/main/specialty/lumitoile/README.md">lumitoile</a></br>
   <a href="https://github.com/Minato0211/minato-jsons/blob/main/specialty/SprayfeatherGill/README.md">Sprayfeather Gill</a></br>
+  <h2>Viewpoint</h2>
+  <a href="/viewpoint/natlan/5.0/README.md">natlan ver5.0</a></br>
   <h2>TP-Waypoint</h2>
   <a href="https://github.com/Minato0211/minato-jsons/tree/main/teleport-waypoint/fontaine/json/4.1">fontaine ver4.1</a></br>
 </body>

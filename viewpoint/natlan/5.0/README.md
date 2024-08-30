@@ -4,6 +4,6 @@
     <p>Viewpoint - Natlan5.0</p>
     <img src=item.webp>
     <h1>𝘿𝒐𝙬𝒏𝙡𝒐𝙖𝒅</h1>
-    <a href="https://github.com/Minato0211/minato-jsons/raw/main/viewpoint/natlan/5.0/NoNeedQuest/Viewpoint.zip">json/filter/no_puzzle.zip</a></br>
+    <a href="/NoNeedQuest/Viewpoint.zip">json/filter/no_puzzle.zip</a></br>
   </div>
 </body>
