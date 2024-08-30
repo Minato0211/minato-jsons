@@ -1,5 +1,7 @@
 <body>
   <h1>Json一覧</h1>
+  <h2>宝箱</h2>
+  <a href="https://github.com/Minato0211/minato-jsons/blob/main/chest/natlan/5.0/README.md">ナタの宝箱 ver5.0</a></br>
   <h2>神の瞳</h2>
   <a href="https://github.com/Minato0211/minato-jsons/tree/main/oculus/pyroculus/5.0/README.md">失われた炎神の瞳 ver5.0</a></br>
   <a href="https://github.com/Minato0211/minato-jsons/blob/main/oculus/hydroculus/4.2/README.md">失われた水神の瞳 ver4.2</a></br>
