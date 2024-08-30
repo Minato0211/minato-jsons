@@ -12,5 +12,6 @@
     <a href="https://github.com/Minato0211/minato-jsons/raw/main/chest/natlan/5.0/precious/precious.zip">precious.zip</a></br>
     <a href="https://github.com/Minato0211/minato-jsons/raw/main/chest/natlan/5.0/remarkable/remarkable.zip">remarkable.zip</a></br>
     <a href="https://github.com/Minato0211/minato-jsons/raw/main/chest/natlan/5.0/morabox/morabox.zip">morabox.zip</a></br>
+    <a href="https://github.com/Minato0211/minato-jsons/raw/main/chest/natlan/5.0/WarriorChallenge/WarriorChallenge.zip">WarriorChallenge.zip</a></br>
   </div>
 </body>
