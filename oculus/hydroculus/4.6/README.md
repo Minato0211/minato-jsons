@@ -5,6 +5,6 @@
     <p>Hydroculus</p>
     <img src=item.webp>
     <h1>𝘿𝒐𝙬𝒏𝙡𝒐𝙖𝒅</h1>
-    <a href="/json/all/all.zip">json/all.zip</a></br>
+    <a href="json/all/all.zip">json/all.zip</a></br>
   </div>
 </body>

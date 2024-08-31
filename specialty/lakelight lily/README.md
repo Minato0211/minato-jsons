@@ -4,6 +4,6 @@
     <p>Lakelight Lily</p>
     <img src=item.webp>
     <h1>𝘿𝒐𝙬𝒏𝙡𝒐𝙖𝒅</h1>
-    <a href="/Furina%20material.zip">Furina material.zip</a></br>
+    <a href="Furina%20material.zip">Furina material.zip</a></br>
   </div>
 </body>
