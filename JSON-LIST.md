@@ -12,8 +12,12 @@
   <a href="/specialty/lakelight%20lily/README.md">lakelight lily</a></br>
   <a href="/specialty/lumitoile/README.md">lumitoile</a></br>
   <a href="/specialty/SprayfeatherGill/README.md">Sprayfeather Gill</a></br>
+  <a href="/specialty/QuenepaBerry/README.md">Quenepa Berry</a></br>
+  <a href="/specialty/BrilliantChrysanthemum/README.md">Brilliant Chrysanthemum</a></br>
+  <a href="/specialty/SaurianClawSucculent/README.md">Saurian Claw Succulent</a></br>
   <h2>Viewpoint</h2>
   <a href="/viewpoint/natlan/5.0/README.md">natlan ver5.0</a></br>
   <h2>TP-Waypoint</h2>
-  <a href="/teleport-waypoint/fontaine/json/4.1">fontaine ver4.1</a></br>
+  <a href="/teleport-waypoint/fontaine/json/4.1/README.md">fontaine ver4.1</a></br>
+  <a href="/teleport-waypoint/natlan/5.0/README.md">natlan ver5.0</a></br>
 </body>

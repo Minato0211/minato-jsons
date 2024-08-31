@@ -12,8 +12,12 @@
   <a href="/specialty/lakelight%20lily/README.md">湖光の鈴蘭</a></br>
   <a href="/specialty/lumitoile/README.md">ルエトワール</a></br>
   <a href="/specialty/SprayfeatherGill/README.md">波しぶきのエラ</a></br>
+  <a href="/specialty/QuenepaBerry/README.md">ケネパベリー</a></br>
+  <a href="/specialty/BrilliantChrysanthemum/README.md">シャクギク</a></br>
+  <a href="/specialty/SaurianClawSucculent/README.md">サウリアンサキュレント</a></br>
   <h2>展望</h2>
   <a href="/viewpoint/natlan/5.0/README.md">ナタ ver5.0</a></br>
   <h2>ワープポイント/七天神像</h2>
   <a href="https://github.com/Minato0211/minato-jsons/tree/main/teleport-waypoint/fontaine/json/4.1">フォンテーヌ ver4.1</a></br>
+  <a href="/teleport-waypoint/natlan/5.0/README.md">ナタ ver5.0</a></br>
 </body>
