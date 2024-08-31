@@ -20,4 +20,6 @@
   <h2>ワープポイント/七天神像</h2>
   <a href="https://github.com/Minato0211/minato-jsons/tree/main/teleport-waypoint/fontaine/json/4.1">フォンテーヌ ver4.1</a></br>
   <a href="/teleport-waypoint/natlan/5.0/README.md">ナタ ver5.0</a></br>
+  <h2>謎解き</h2>
+  <a href="/puzzle/natlan/monetoo/5.0/README.md">ナタの幻写霊 ver5.0</a></br>
 </body>

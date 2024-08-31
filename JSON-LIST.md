@@ -20,4 +20,6 @@
   <h2>TP-Waypoint</h2>
   <a href="/teleport-waypoint/fontaine/json/4.1/README.md">fontaine ver4.1</a></br>
   <a href="/teleport-waypoint/natlan/5.0/README.md">natlan ver5.0</a></br>
+  <h2>Puzzle</h2>
+  <a href="/puzzle/natlan/monetoo/5.0/README.md">Natlan's monetoo ver5.0</a></br>
 </body>
