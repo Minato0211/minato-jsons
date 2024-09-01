@@ -1,7 +1,7 @@
-<body>
+> [!WARNING]  
+> NOTE: this is something i made for my 2nd ID and there is folder like "json/filter" or anything (its incomplete json!!)
+> common: 72|exquisite: 110|luxurious: 10|precious: 36|remarkable: 28| morabox: unknown<body>
   <div align="center">
-    > [!WARNING]  
-    > NOTE: this is something i made for my 2nd ID and there is folder like "json/filter" or anything (its incomplete json!!)
     <h1>𝑫𝙚𝒕𝙖𝒊𝙡𝒔</h1>
     <p>Chest</p>
     <img src=item.webp>
