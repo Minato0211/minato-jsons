@@ -29,4 +29,7 @@
   <a href="/teleport-waypoint/natlan/5.0/README.md">natlan ver5.0</a></br>
   <h2>Puzzle</h2>
   <a href="/puzzle/natlan/monetoo/5.0/README.md">Natlan's monetoo ver5.0</a></br>
+  <a href="/puzzle/natlan/TimeTrialChallenge/5.0/README.md">Natlan's Time Trial Challenge ver5.0</a></br>
+  <a href="/puzzle/natlan/LocalLegend/5.0/README.md">Natlan's Local Legend ver5.0</a></br>
+  <a href="/chest/natlan/5.0/README.md">Warrior Challenge ver5.0</a></br>
 </body>
