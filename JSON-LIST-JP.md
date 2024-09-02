@@ -30,4 +30,7 @@
   <a href="/teleport-waypoint/natlan/5.0/README.md">ナタ ver5.0</a></br>
   <h2>謎解き</h2>
   <a href="/puzzle/natlan/monetoo/5.0/README.md">ナタの幻写霊 ver5.0</a></br>
+  <a href="/puzzle/natlan/TimeTrialChallenge/5.0/README.md">ナタの時間制限挑戦 ver5.0</a></br>
+  <a href="/puzzle/natlan/LocalLegend/5.0/README.md">ナタの地方伝説 ver5.0</a></br>
+  <a href="/chest/natlan/5.0/README.md">戦士の挑戦 ver5.0</a></br>
 </body>
