@@ -1,5 +1,8 @@
 <body>
   <h1>Json一覧</h1>
+  <div align="center">
+    <a>⚠︎マーク: 非推奨 (なんらかの問題)</a>
+  </div>
   <h2>宝箱</h2>
   <a href="/chest/natlan/5.0/README.md">ナタの宝箱+モラ箱 ver5.0 [⚠︎]</a></br>
   <h2>神の瞳</h2>
