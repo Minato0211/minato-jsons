@@ -20,9 +20,9 @@
   <a href="/specialty/SaurianClawSucculent/README.md">サウリアンサキュレント</a></br>
   <h2>素材</h2>
   <h3>ナタ</h3>
-  <a href="/material/natlan/candlecap mushroom/README.md">candlecap mushroom</a></br>
-  <a href="/material/natlan/embercore flower/README.md">embercore flower</a></br>
-  <a href="/material/natlan/spinel fruit/README.md">spinel fruit</a></br>
+  <a href="/material/natlan/candlecap mushroom/README.md">キャンドルキノコ</a></br>
+  <a href="/material/natlan/embercore flower/README.md">エンバーコアフラワー</a></br>
+  <a href="/material/natlan/spinel fruit/README.md">スピネルの実</a></br>
   <h2>展望</h2>
   <a href="/viewpoint/natlan/5.0/README.md">ナタ ver5.0</a></br>
   <h2>ワープポイント/七天神像</h2>
