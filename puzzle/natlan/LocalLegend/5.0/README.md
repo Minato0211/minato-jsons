@@ -2,7 +2,7 @@
   <div align="center">
     <h1>𝑫𝙚𝒕𝙖𝒊𝙡𝒔</h1>
     <p>LocalLegebd</p>
-    <img src=https://raw.githubusercontent.com/Minato0211/minato-jsons/main/assets/unknown.webp>
+    <img src=https://raw.githubusercontent.com/Minato0211/minato-jsons/main/assets/unknown.webp></br>
     <a>- Cocijo</a></br>
     <a>- Balachko</a></br>
     <a>- Cihuacoatl of Chimeric Bone</a></br>
