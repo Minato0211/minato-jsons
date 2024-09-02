@@ -15,6 +15,11 @@
   <a href="/specialty/QuenepaBerry/README.md">Quenepa Berry</a></br>
   <a href="/specialty/BrilliantChrysanthemum/README.md">Brilliant Chrysanthemum</a></br>
   <a href="/specialty/SaurianClawSucculent/README.md">Saurian Claw Succulent</a></br>
+  <h2>Material</h2>
+  <h3>Natlan</h3>
+  <a href="/material/natlan/candlecap mushroom/README.md">candlecap mushroom</a></br>
+  <a href="/material/natlan/embercore flower/README.md">embercore flower</a></br>
+  <a href="/material/natlan/spinel fruit/README.md">spinel fruit</a></br>
   <h2>Viewpoint</h2>
   <a href="/viewpoint/natlan/5.0/README.md">natlan ver5.0</a></br>
   <h2>TP-Waypoint</h2>
