@@ -23,6 +23,9 @@
   <a href="/material/natlan/candlecap mushroom/README.md">キャンドルキノコ</a></br>
   <a href="/material/natlan/embercore flower/README.md">エンバーコアフラワー</a></br>
   <a href="/material/natlan/spinel fruit/README.md">スピネルの実</a></br>
+  <h2>モンスター</h2>
+  <h3>ナタ</h3>
+  <a href="/monster/natlan_saurians/5.0/README.md">ナタの竜たち ver5.0</a></br>
   <h2>展望</h2>
   <a href="/viewpoint/natlan/5.0/README.md">ナタ ver5.0</a></br>
   <h2>ワープポイント/七天神像</h2>
