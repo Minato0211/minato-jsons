@@ -25,6 +25,7 @@
   <h2>Monster</h2>
   <h3>Natlan</h3>
   <a href="/monster/natlan_saurians/5.0/README.md">Natlan Saurians ver5.0</a></br>
+  <a href="/monster/sairoform_tribal_warriors/5.0/README.md">Sauroform Tribal Warriors ver5.0</a></br>
   <h2>Viewpoint</h2>
   <a href="/viewpoint/natlan/5.0/README.md">natlan ver5.0</a></br>
   <h2>TP-Waypoint</h2>

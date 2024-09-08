@@ -26,6 +26,7 @@
   <h2>モンスター</h2>
   <h3>ナタ</h3>
   <a href="/monster/natlan_saurians/5.0/README.md">ナタの竜たち ver5.0</a></br>
+  <a href="/monster/sairoform_tribal_warriors/5.0/README.md">部族竜戦士 ver5.0</a></br>
   <h2>展望</h2>
   <a href="/viewpoint/natlan/5.0/README.md">ナタ ver5.0</a></br>
   <h2>ワープポイント/七天神像</h2>
