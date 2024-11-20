@@ -6,6 +6,7 @@
   <a href="/chest/natlan/5.0/README.md">⚠︎ natlan's chest(+morabox) ver5.0</a></br>
   <h2>Oculus</h2>
   <a href="/oculus/pyroculus/5.0/README.md">✅pyroculus ver5.0</a></br>
+  <a href="/oculus/pyroculus/5.2/README.md">pyroculus ver5.2</a></br>
   <a href="/oculus/hydroculus/4.2/README.md">hydroculus ver4.2</a></br>
   <a href="/oculus/hydroculus/4.6/README.md">⚠︎hydroculus ver4.6</a></br>
   <a href="/oculus/hydroculus/4.6_SeaOfBygone/README.md">⚠︎hydroculus ver4.6 (Sea of Bygone)</a></br>
