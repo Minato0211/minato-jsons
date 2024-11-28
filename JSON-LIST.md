@@ -2,8 +2,10 @@
   <h1>Json list</h1>
     <a>⚠︎ mark: not recommended (some kind issue)</a></br>
     <a>✅ mark: user or i have confirmed</a>
-  <h2>chest</h2>
+  <h2>chest</h2>shrines_of_depths
   <a href="/chest/natlan/5.0/README.md">⚠︎natlan's chest(+morabox) ver5.0</a></br>
+  <a href="/chest/natlan/5.2/README.md">⚠︎natlan's chest(+morabox) ver5.2</a></br>
+  <a href="/chest/natlan/shrines_of_depths/README.md">natlan's shrines of depths</a></br>
   <h2>Oculus</h2>
   <a href="/oculus/pyroculus/5.0/README.md">✅pyroculus ver5.0</a></br>
   <a href="/oculus/pyroculus/5.2/README.md">pyroculus ver5.2</a></br>
@@ -38,6 +40,7 @@
   <a href="/teleport-waypoint/natlan/5.2/README.md">natlan ver5.2</a></br>
   <h2>Puzzle</h2>
   <a href="/puzzle/natlan/monetoo/5.0/README.md">Natlan's monetoo ver5.0</a></br>
+  <a href="/puzzle/natlan/monetoo/5.0/README.md">Natlan's monetoo ver5.2</a></br>
   <a href="/puzzle/natlan/TimeTrialChallenge/5.0/README.md">Natlan's Time Trial Challenge ver5.0</a></br>
   <a href="/puzzle/natlan/TimeTrialChallenge/5.2/README.md">⚠︎Natlan's Time Trial Challenge ver5.2</a></br>
   <a href="/puzzle/natlan/LocalLegend/5.0/README.md">Natlan's Local Legend ver5.0</a></br>

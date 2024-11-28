@@ -4,6 +4,8 @@
     <a>✅ マーク: ユーザーまたは私が確認済み</a>
   <h2>宝箱</h2>
   <a href="/chest/natlan/5.0/README.md">⚠︎ナタの宝箱+モラ箱 ver5.0</a></br>
+  <a href="/chest/natlan/5.0/README.md">⚠︎ナタの宝箱+モラ箱 ver5.2</a></br>
+  <a href="/chest/natlan/shrines_of_depths/README.md">ナタの地霊壇</a></br>
   <h2>神の瞳</h2>
   <a href="/oculus/pyroculus/5.0/README.md">✅失われた炎神の瞳 ver5.0</a></br>
   <a href="/oculus/pyroculus/5.2/README.md">失われた炎神の瞳 ver5.2</a></br>
@@ -38,6 +40,7 @@
   <a href="/teleport-waypoint/natlan/5.2/README.md">ナタ ver5.2</a></br>
   <h2>謎解き</h2>
   <a href="/puzzle/natlan/monetoo/5.0/README.md">ナタの幻写霊 ver5.0</a></br>
+  <a href="/puzzle/natlan/monetoo/5.0/README.md">ナタの幻写霊 ver5.2</a></br>
   <a href="/puzzle/natlan/TimeTrialChallenge/5.0/README.md">ナタの時間制限挑戦 ver5.0</a></br>
   <a href="/puzzle/natlan/TimeTrialChallenge/5.0/README.md">⚠︎ナタの時間制限挑戦 ver5.2</a></br>
   <a href="/puzzle/natlan/LocalLegend/5.0/README.md">ナタの地方伝説 ver5.0</a></br>
