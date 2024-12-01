@@ -2,7 +2,7 @@
   <h1>Json list</h1>
     <a>⚠︎ mark: not recommended (some kind issue)</a></br>
     <a>✅ mark: user or i have confirmed</a>
-  <h2>chest</h2>shrines_of_depths
+  <h2>chest</h2>
   <a href="/chest/natlan/5.0/README.md">⚠︎natlan's chest(+morabox) ver5.0</a></br>
   <a href="/chest/natlan/5.2/README.md">⚠︎natlan's chest(+morabox) ver5.2</a></br>
   <a href="/chest/natlan/shrines_of_depths/README.md">natlan's shrines of depths</a></br>

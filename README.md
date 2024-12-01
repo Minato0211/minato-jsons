@@ -12,4 +12,6 @@
   <li>
     <a href="README-JP.md"><b><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1ef-1f1f5.svg" width="16"/>Japanese</b></a>
   </li>
+  <h1>⚠︎ if you're copying my json to share file with someone, please be sure to give credit, no matter what🙏🙏
+it might be a bit of hassle.. but thank you!⚠︎</h1>
 </body>
