@@ -44,5 +44,4 @@
   <a href="/puzzle/natlan/TimeTrialChallenge/5.0/README.md">Natlan's Time Trial Challenge ver5.0</a></br>
   <a href="/puzzle/natlan/TimeTrialChallenge/5.2/README.md">⚠︎Natlan's Time Trial Challenge ver5.2</a></br>
   <a href="/puzzle/natlan/LocalLegend/5.0/README.md">Natlan's Local Legend ver5.0</a></br>
-  <a href="/chest/natlan/5.0/README.md">Warrior Challenge ver5.0</a></br>
 </body>
