@@ -8,10 +8,10 @@
   <a href="/chest/natlan/shrines_of_depths/README.md">ナタの地霊壇</a></br>
   <h2>神の瞳</h2>
   <a href="/oculus/pyroculus/5.0/README.md">✅失われた炎神の瞳 ver5.0</a></br>
-  <a href="/oculus/pyroculus/5.2/README.md">失われた炎神の瞳 ver5.2</a></br>
+  <a href="/oculus/pyroculus/5.2/README.md">✅失われた炎神の瞳 ver5.2</a></br>
   <a href="/oculus/hydroculus/4.2/README.md">失われた水神の瞳 ver4.2</a></br>
   <a href="/oculus/hydroculus/4.6/README.md">⚠︎失われた水神の瞳 ver4.6</a></br>
-  <a href="/oculus/hydroculus/4.6_SeaOfBygone/README.md">⚠︎失われた水神の瞳 ver4.6（往日の海）</a></br>
+  <a href="/oculus/hydroculus/SeaOfBygone/README.md">⚠︎失われた水神の瞳 ver4.6（往日の海）</a></br>
   <a href="/oculus/SpiritCarp/4.4/README.md">蒼霊の鯉 ver4.4</a></br>
   <h2>特産品</h2>
   <a href="/specialty/GlowingHornshroom/README.md">蛍光ツノキノコ</a></br>
