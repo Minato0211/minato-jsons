@@ -3,6 +3,7 @@
     <a>⚠︎ マーク: 非推奨 (なんらかの問題)</a></br>
     <a>✅ マーク: ユーザーまたは私が確認済み</a>
   <h2>宝箱</h2>
+  <a href="/chest/chenyu/README.md">⚠︎珍玉の宝箱+モラ箱 ver4.4</a></br>
   <a href="/chest/natlan/5.0/README.md">⚠︎ナタの宝箱+モラ箱 ver5.0</a></br>
   <a href="/chest/natlan/5.2/README.md">⚠︎ナタの宝箱+モラ箱 ver5.2</a></br>
   <a href="/chest/natlan/shrines_of_depths/README.md">ナタの地霊壇</a></br>
@@ -12,11 +13,12 @@
   <a href="/oculus/hydroculus/4.2/README.md">失われた水神の瞳 ver4.2</a></br>
   <a href="/oculus/hydroculus/4.6/README.md">⚠︎失われた水神の瞳 ver4.6</a></br>
   <a href="/oculus/hydroculus/SeaOfBygone/README.md">⚠︎失われた水神の瞳 ver4.6（往日の海）</a></br>
-  <a href="/oculus/SpiritCarp/4.4/README.md">蒼霊の鯉 ver4.4</a></br>
+  <a href="/oculus/SpiritCarp/4.4/README.md">✅蒼霊の鯉 ver4.4</a></br>
   <h2>特産品</h2>
+  <a href="/specialty/clearwaterJade/README.md">清水玉</a></br>
   <a href="/specialty/GlowingHornshroom/README.md">蛍光ツノキノコ</a></br>
   <a href="/specialty/WitheringPurpurbloom/README.md">枯れ紫菖</a></br>
-  <a href="/specialty/lakelight%20lily/README.md">湖光の鈴蘭</a></br>
+  <a href="/specialty/lakelightLily/README.md">湖光の鈴蘭</a></br>
   <a href="/specialty/lumitoile/README.md">ルエトワール</a></br>
   <a href="/specialty/SprayfeatherGill/README.md">波しぶきのエラ</a></br>
   <a href="/specialty/QuenepaBerry/README.md">ケネパベリー</a></br>
@@ -39,6 +41,8 @@
   <a href="/teleport-waypoint/natlan/5.0/README.md">ナタ ver5.0</a></br>
   <a href="/teleport-waypoint/natlan/5.2/README.md">ナタ ver5.2</a></br>
   <h2>謎解き</h2>
+  <a href="/puzzle/chenyu/seelie/README.md">珍玉の仙霊 ver4.4</a></br>
+  <a href="/puzzle/chenyu/challenges/README.md">珍玉の挑戦 ver4.4</a></br>
   <a href="/puzzle/natlan/monetoo/5.0/README.md">ナタの幻写霊 ver5.0</a></br>
   <a href="/puzzle/natlan/monetoo/5.0/README.md">ナタの幻写霊 ver5.2</a></br>
   <a href="/puzzle/natlan/TimeTrialChallenge/5.0/README.md">ナタの時間制限挑戦 ver5.0</a></br>

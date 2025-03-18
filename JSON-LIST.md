@@ -3,6 +3,7 @@
     <a>⚠︎ mark: not recommended (some kind issue)</a></br>
     <a>✅ mark: user or i have confirmed</a>
   <h2>chest</h2>
+  <a href="/chest/chenyu/README.md">⚠︎chenyu's chest(+morabox) ver4.4</a></br>
   <a href="/chest/natlan/5.0/README.md">⚠︎natlan's chest(+morabox) ver5.0</a></br>
   <a href="/chest/natlan/5.2/README.md">⚠︎natlan's chest(+morabox) ver5.2</a></br>
   <a href="/chest/natlan/shrines_of_depths/README.md">natlan's shrines of depths</a></br>
@@ -12,11 +13,12 @@
   <a href="/oculus/hydroculus/4.2/README.md">hydroculus ver4.2</a></br>
   <a href="/oculus/hydroculus/4.6/README.md">⚠︎hydroculus ver4.6</a></br>
   <a href="/oculus/hydroculus/SeaOfBygone/README.md">⚠︎hydroculus ver4.6 (Sea of Bygone)</a></br>
-  <a href="/oculus/SpiritCarp/4.4/README.md">SpiritCarp ver4.4</a></br>
+  <a href="/oculus/SpiritCarp/4.4/README.md">✅SpiritCarp ver4.4</a></br>
   <h2>Specialty</h2>
+  <a href="/specialty/clearwaterJade/README.md">Clearwater Jade</a></br>
   <a href="/specialty/GlowingHornshroom/README.md">Glowing Hornshroom</a></br>
   <a href="/specialty/WitheringPurpurbloom/README.md">Withering Purpurbloom</a></br>
-  <a href="/specialty/lakelight%20lily/README.md">lakelight lily</a></br>
+  <a href="/specialty/lakelightLily/README.md">lakelight lily</a></br>
   <a href="/specialty/lumitoile/README.md">lumitoile</a></br>
   <a href="/specialty/SprayfeatherGill/README.md">Sprayfeather Gill</a></br>
   <a href="/specialty/QuenepaBerry/README.md">Quenepa Berry</a></br>
@@ -39,6 +41,8 @@
   <a href="/teleport-waypoint/natlan/5.0/README.md">natlan ver5.0</a></br>
   <a href="/teleport-waypoint/natlan/5.2/README.md">natlan ver5.2</a></br>
   <h2>Puzzle</h2>
+  <a href="/puzzle/chenyu/seelie/README.md">Chenyu's seelie ver4.4</a></br>
+  <a href="/puzzle/chenyu/challenges/README.md">Chenyu's challenges ver4.4</a></br>
   <a href="/puzzle/natlan/monetoo/5.0/README.md">Natlan's monetoo ver5.0</a></br>
   <a href="/puzzle/natlan/monetoo/5.0/README.md">Natlan's monetoo ver5.2</a></br>
   <a href="/puzzle/natlan/TimeTrialChallenge/5.0/README.md">Natlan's Time Trial Challenge ver5.0</a></br>

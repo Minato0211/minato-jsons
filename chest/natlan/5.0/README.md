@@ -1,5 +1,5 @@
 > [!WARNING]  
-> NOTE: this is something i made for my 2nd ID and there is folder like "json/filter" or anything (its incomplete json!!)
+> NOTE: this json is incomplete and not perfect!!! it may contain incorrect, duplicate, missing etc..
 <body>
   <div align="center">
     <a>common: 72|exquisite: 110|luxurious: 10|precious: 36|remarkable: 28| morabox: unknown</a>
