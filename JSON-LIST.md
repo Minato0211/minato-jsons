@@ -10,7 +10,7 @@
   <h2>Oculus</h2>
   <a href="/oculus/pyroculus/5.0/README.md">✅pyroculus ver5.0</a></br>
   <a href="/oculus/pyroculus/5.2/README.md">✅pyroculus ver5.2</a></br>
-  <a href="/oculus/pyroculus/5.5/README.md">pyroculus(natlan) ver5.5</a></br>
+  <a href="/oculus/pyroculus/5.5/README.md">✅pyroculus(natlan) ver5.5</a></br>
   <a href="/oculus/pyroculus/ancientSacred/README.md">pyroculus(ancientSacred) ver5.5</a></br>
   <a href="/oculus/hydroculus/4.2/README.md">hydroculus ver4.2</a></br>
   <a href="/oculus/hydroculus/4.6/README.md">⚠︎hydroculus ver4.6</a></br>
@@ -42,6 +42,7 @@
   <a href="/teleport-waypoint/fontaine/json/4.1/README.md">fontaine ver4.1</a></br>
   <a href="/teleport-waypoint/natlan/5.0/README.md">natlan ver5.0</a></br>
   <a href="/teleport-waypoint/natlan/5.2/README.md">natlan ver5.2</a></br>
+  <a href="/teleport-waypoint/natlan/ancientSacred/README.md">ancientSacred ver5.5</a></br>
   <h2>Puzzle</h2>
   <a href="/puzzle/chenyu/seelie/README.md">Chenyu's seelie ver4.4</a></br>
   <a href="/puzzle/chenyu/challenges/README.md">Chenyu's challenges ver4.4</a></br>

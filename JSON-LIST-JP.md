@@ -10,7 +10,7 @@
   <h2>神の瞳</h2>
   <a href="/oculus/pyroculus/5.0/README.md">✅失われた炎神の瞳 ver5.0</a></br>
   <a href="/oculus/pyroculus/5.2/README.md">✅失われた炎神の瞳 ver5.2</a></br>
-  <a href="/oculus/pyroculus/5.5/README.md">失われた炎神の瞳(ナタ) ver5.5</a></br>
+  <a href="/oculus/pyroculus/5.5/README.md">✅失われた炎神の瞳(ナタ) ver5.5</a></br>
   <a href="/oculus/pyroculus/ancientSacred/README.md">失われた炎神の瞳(古の聖山) ver5.5</a></br>
   <a href="/oculus/hydroculus/4.2/README.md">失われた水神の瞳 ver4.2</a></br>
   <a href="/oculus/hydroculus/4.6/README.md">⚠︎失われた水神の瞳 ver4.6</a></br>
@@ -42,6 +42,7 @@
   <a href="https://github.com/Minato0211/minato-jsons/tree/main/teleport-waypoint/fontaine/json/4.1">フォンテーヌ ver4.1</a></br>
   <a href="/teleport-waypoint/natlan/5.0/README.md">ナタ ver5.0</a></br>
   <a href="/teleport-waypoint/natlan/5.2/README.md">ナタ ver5.2</a></br>
+  <a href="/teleport-waypoint/natlan/ancientSacred/README.md">古の聖山 ver5.5</a></br>
   <h2>謎解き</h2>
   <a href="/puzzle/chenyu/seelie/README.md">珍玉の仙霊 ver4.4</a></br>
   <a href="/puzzle/chenyu/challenges/README.md">珍玉の挑戦 ver4.4</a></br>
