@@ -10,6 +10,8 @@
   <h2>神の瞳</h2>
   <a href="/oculus/pyroculus/5.0/README.md">✅失われた炎神の瞳 ver5.0</a></br>
   <a href="/oculus/pyroculus/5.2/README.md">✅失われた炎神の瞳 ver5.2</a></br>
+  <a href="/oculus/pyroculus/5.5/README.md">失われた炎神の瞳(ナタ) ver5.5</a></br>
+  <a href="/oculus/pyroculus/ancientSacred/README.md">失われた炎神の瞳(古の聖山) ver5.5</a></br>
   <a href="/oculus/hydroculus/4.2/README.md">失われた水神の瞳 ver4.2</a></br>
   <a href="/oculus/hydroculus/4.6/README.md">⚠︎失われた水神の瞳 ver4.6</a></br>
   <a href="/oculus/hydroculus/SeaOfBygone/README.md">⚠︎失われた水神の瞳 ver4.6（往日の海）</a></br>
