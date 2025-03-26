@@ -6,6 +6,7 @@
   <a href="/chest/chenyu/README.md">⚠︎珍玉の宝箱+モラ箱 ver4.4</a></br>
   <a href="/chest/natlan/5.0/README.md">⚠︎ナタの宝箱+モラ箱 ver5.0</a></br>
   <a href="/chest/natlan/5.2/README.md">⚠︎ナタの宝箱+モラ箱 ver5.2</a></br>
+  <a href="/chest/ancientSacred/README.md">⚠︎古の聖山の宝箱+モラ箱 ver5.5</a></br>
   <a href="/chest/natlan/shrines_of_depths/README.md">ナタの地霊壇</a></br>
   <h2>神の瞳</h2>
   <a href="/oculus/pyroculus/5.0/README.md">✅失われた炎神の瞳 ver5.0</a></br>
@@ -38,6 +39,7 @@
   <h2>展望</h2>
   <a href="/viewpoint/natlan/5.0/README.md">ナタ ver5.0</a></br>
   <a href="/viewpoint/natlan/5.2/README.md">ナタ ver5.2</a></br>
+  <a href="/viewpoint/ancientSacred/README.md">古の聖山 ver5.5</a></br>
   <h2>ワープポイント/七天神像</h2>
   <a href="https://github.com/Minato0211/minato-jsons/tree/main/teleport-waypoint/fontaine/json/4.1">フォンテーヌ ver4.1</a></br>
   <a href="/teleport-waypoint/natlan/5.0/README.md">ナタ ver5.0</a></br>
@@ -50,5 +52,9 @@
   <a href="/puzzle/natlan/monetoo/5.0/README.md">ナタの幻写霊 ver5.2</a></br>
   <a href="/puzzle/natlan/TimeTrialChallenge/5.0/README.md">ナタの時間制限挑戦 ver5.0</a></br>
   <a href="/puzzle/natlan/TimeTrialChallenge/5.0/README.md">⚠︎ナタの時間制限挑戦 ver5.2</a></br>
+  <a href="/puzzle/ancientSacred/challenge/README.md">⚠古の聖山の時間制限挑戦 ver5.5</a></br>
+  <a href="/puzzle/ancientSacred/oozingCore/README.md">古の聖山 沈泥のコア ver5.5</a></br>
+  <a href="/puzzle/ancientSacred/pulverite/README.md">古の聖山  タックル岩 ver5.5</a></br>
+  <a href="/puzzle/ancientSacred/geothermalVent/README.md">古の聖山 地熱噴出口 ver5.5</a></br>
   <a href="/puzzle/natlan/LocalLegend/5.0/README.md">ナタの地方伝説 ver5.0</a></br>
 </body>
