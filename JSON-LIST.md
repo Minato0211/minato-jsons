@@ -27,6 +27,7 @@
   <a href="/specialty/QuenepaBerry/README.md">Quenepa Berry</a></br>
   <a href="/specialty/BrilliantChrysanthemum/README.md">Brilliant Chrysanthemum</a></br>
   <a href="/specialty/SaurianClawSucculent/README.md">Saurian Claw Succulent</a></br>
+  <a href="/specialty/skysplitGembloom/README.md">Skysplit Gembloom</a></br>
   <h2>Material</h2>
   <h3>Natlan</h3>
   <a href="/material/natlan/candlecap mushroom/README.md">candlecap mushroom</a></br>
