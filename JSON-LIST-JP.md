@@ -27,6 +27,7 @@
   <a href="/specialty/QuenepaBerry/README.md">ケネパベリー</a></br>
   <a href="/specialty/BrilliantChrysanthemum/README.md">シャクギク</a></br>
   <a href="/specialty/SaurianClawSucculent/README.md">サウリアンサキュレント</a></br>
+  <a href="/specialty/skysplitGembloom/README.md">岩裂の花</a></br>
   <h2>素材</h2>
   <h3>ナタ</h3>
   <a href="/material/natlan/candlecap mushroom/README.md">キャンドルキノコ</a></br>
