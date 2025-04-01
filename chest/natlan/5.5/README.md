@@ -1,6 +1,6 @@
 > [!WARNING]  
 > NOTE: this json is incomplete and not perfect!!! it may contain incorrect, duplicate, missing etc..
-> upd: SOME chest that require world quest is not included! sorry!
+> upd: SOME chest that require world quest is not included! sorry! (4/2/2025: inclided now~)
 <body>
   <div align="center">
     <a>common: unknown|exquisite: unknown|luxurious: unknown|precious: unknown|remarkable: unknown| morabox: unknown</a>
