@@ -7,7 +7,7 @@
   <a href="/chest/natlan/5.0/README.md">⚠︎ナタの宝箱+モラ箱 ver5.0</a></br>
   <a href="/chest/natlan/5.2/README.md">⚠︎ナタの宝箱+モラ箱 ver5.2</a></br>
   <a href="/chest/natlan/5.5/README.md">⚠︎ナタの宝箱+モラ箱 ver5.5</a></br>
-  <a href="/chest/natlan/ancientSacred/README.md">⚠︎古の聖山の宝箱+モラ箱 ver5.5</a></br>
+  <a href="/chest/natlan/ancientSacred/README.md">✅古の聖山の宝箱+モラ箱 ver5.5</a></br>
   <a href="/chest/natlan/shrines_of_depths/README.md">ナタの地霊壇</a></br>
   <h2>神の瞳</h2>
   <a href="/oculus/pyroculus/5.0/README.md">✅失われた炎神の瞳 ver5.0</a></br>
