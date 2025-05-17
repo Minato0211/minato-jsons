@@ -6,7 +6,7 @@
   <a href="/chest/chenyu/README.md">⚠︎chenyu's chest(+morabox) ver4.4</a></br>
   <a href="/chest/natlan/5.0/README.md">⚠︎natlan's chest(+morabox) ver5.0</a></br>
   <a href="/chest/natlan/5.2/README.md">⚠︎natlan's chest(+morabox) ver5.2</a></br>
-  <a href="/chest/natlan/5.2/README.md">⚠︎natlan's chest(+morabox) ver5.5</a></br>
+  <a href="/chest/natlan/5.5/README.md">✅natlan's chest(+morabox) ver5.5</a></br>
   <a href="/chest/natlan/ancientSacred/README.md">✅ancientSacred's chest(+morabox) ver5.5</a></br>
   <a href="/chest/natlan/shrines_of_depths/README.md">natlan's shrines of depths</a></br>
   <h2>Oculus</h2>
