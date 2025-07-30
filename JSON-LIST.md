@@ -14,6 +14,7 @@
   <a href="/oculus/pyroculus/5.2/README.md">✅pyroculus ver5.2</a></br>
   <a href="/oculus/pyroculus/5.5/README.md">✅pyroculus(natlan) ver5.5</a></br>
   <a href="/oculus/pyroculus/ancientSacred/README.md">pyroculus(ancientSacred) ver5.5</a></br>
+  <a href="/oculus/pyroculus/5.8/README.md">pyroculus ver5.8</a></br>
   <a href="/oculus/hydroculus/4.2/README.md">hydroculus ver4.2</a></br>
   <a href="/oculus/hydroculus/4.6/README.md">⚠︎hydroculus ver4.6</a></br>
   <a href="/oculus/hydroculus/SeaOfBygone/README.md">⚠︎hydroculus ver4.6 (Sea of Bygone)</a></br>
