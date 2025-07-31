@@ -12,21 +12,23 @@
     <p>Chest</p>
     <img src=item.webp>
     <h1>𝘿𝒐𝙬𝒏𝙡𝒐𝙖𝒅</h1>
-    <a href="common/all/all.zip">all.zip (common)</a></br>
-    <a href="common/filter/noPuzle/noPuzle.zip">noPuzzle.zip (common)</a></br>
-    <a href="common/filter/puzzle/puzzle.zip">puzzle.zip (common)</a></br>
-    <a href="exquisite/all/all.zip">all.zip (exquisite)</a></br>
-    <a href="exquisite/filter/noPuzle/noPuzle.zip">noPuzzle.zip (exquisite)</a></br>
-    <a href="exquisite/filter/puzzle/puzzle.zip">puzzle.zip (exquisite)</a></br>
-    <a href="precious/all/all.zip">all.zip (precious)</a></br>
-    <a href="precious/filter/noPuzle/noPuzle.zip">noPuzzle.zip (precious)</a></br>
-    <a href="precious/filter/puzzle/puzzle.zip">puzzle.zip (precious)</a></br>
-    <a href="luxurious/luxurious.zip">luxurious.zip</a></br>
+    <!-- common -->
+    <a href="common/all/common_all.zip">common_all.zip</a></br>
+    <a href="common/filter/noPuzzle/common_noPuzzle.zip">common_noPuzzle.zip</a></br>
+    <a href="common/filter/puzzle/common_puzzle.zip">common_puzzle.zip</a></br>
+    <!-- exquisite -->
+    <a href="exquisite/exquisite_all.zip">exquisite_all.zip</a></br>
+    <!-- precious -->
+    <a href="precious/precious_all.zip">precious_all.zip</a></br>
+    <!-- luxurious -->
+    <a href="luxurious/luxurious_all.zip">luxurious_all.zip</a></br>
+    <!-- remarkable -->
+    <a href="remarkable/remarkable_all.zip">remarkable_all.zip</a></br>
+    <!-- morabox -->
+    <a href="morabox/all/morabox_all.zip">all.zip (morabox)</a></br>
+    <a href="morabox/filter/noPuzzle/morabox_noPuzzle.zip">noPuzzle.zip (morabox)</a></br>
+    <a href="morabox/filter/puzzle/morabox_puzzle.zip">puzzle.zip (morabox)</a></br>
     <!--
-    <a href="remarkable/all/remarkable.zip">remarkable.zip</a></br>
-    <a href="morabox/all/all.zip">all.zip (morabox)</a></br>
-    <a href="morabox/filter/noPuzle/noPuzle.zip">noPuzzle.zip (morabox)</a></br>
-    <a href="morabox/filter/puzzle/puzzle.zip">puzzle.zip (morabox)</a></br>
     <a href="morabox/filter/warriorChallenge/warriorChallenge.zip">warriorChallenge.zip</a></br>
     -->
   </div>
