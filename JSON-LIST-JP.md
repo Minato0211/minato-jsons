@@ -8,6 +8,7 @@
   <a href="/chest/natlan/5.2/README.md">⚠︎ナタの宝箱+モラ箱 ver5.2</a></br>
   <a href="/chest/natlan/5.5/README.md">⚠︎ナタの宝箱+モラ箱 ver5.5</a></br>
   <a href="/chest/natlan/ancientSacred/README.md">✅古の聖山の宝箱+モラ箱 ver5.5</a></br>
+  <a href="/chest/natlan/5.8/README.md">⚠ナタの宝箱+モラ箱 ver5.8</a></br>
   <a href="/chest/natlan/shrines_of_depths/README.md">ナタの地霊壇</a></br>
   <h2>神の瞳</h2>
   <a href="/oculus/pyroculus/5.0/README.md">✅失われた炎神の瞳 ver5.0</a></br>
@@ -56,10 +57,12 @@
   <a href="/puzzle/natlan/monetoo/5.2/README.md">ナタの幻写霊 ver5.2</a></br>
   <a href="/puzzle/natlan/monetoo/5.5/README.md">ナタの幻写霊 ver5.5</a></br>
   <a href="/puzzle/ancientSacred/monetoo/README.md">古の聖山の幻写霊 ver5.5</a></br>
+  <a href="/puzzle/natlan/monetoo/5.8/README.md">ナタの幻写霊 ver5.8</a></br>
   <a href="/puzzle/natlan/TimeTrialChallenge/5.0/README.md">ナタの時間制限挑戦 ver5.0</a></br>
   <a href="/puzzle/natlan/TimeTrialChallenge/5.2/README.md">⚠︎ナタの時間制限挑戦 ver5.2</a></br>
   <a href="/puzzle/natlan/TimeTrialChallenge/5.5/README.md">⚠︎ナタの時間制限挑戦 ver5.5</a></br>
   <a href="/puzzle/ancientSacred/challenge/README.md">⚠︎ナタの時間制限挑戦 ver5.5</a></br>
+  <a href="/puzzle/natlan/TimeTrialChallenge/5.8/README.md">⚠ナタの時間制限挑戦 ver5.8</a></br>
   <a href="/puzzle/ancientSacred/oozingCore/README.md">古の聖山の沈泥のコア ver5.5</a></br>
   <a href="/puzzle/ancientSacred/pulverite/README.md">古の聖山のタックル岩 ver5.5</a></br>
   <a href="/puzzle/natlan/5.5/pulverite/README.md">ナタのタックル岩 ver5.5</a></br>

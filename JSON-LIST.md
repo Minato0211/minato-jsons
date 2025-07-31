@@ -8,6 +8,7 @@
   <a href="/chest/natlan/5.2/README.md">⚠︎natlan's chest(+morabox) ver5.2</a></br>
   <a href="/chest/natlan/5.5/README.md">✅natlan's chest(+morabox) ver5.5</a></br>
   <a href="/chest/natlan/ancientSacred/README.md">✅ancientSacred's chest(+morabox) ver5.5</a></br>
+  <a href="/chest/natlan/5.8/README.md">natlan's chest(+morabox) ver5.8</a></br>
   <a href="/chest/natlan/shrines_of_depths/README.md">natlan's shrines of depths</a></br>
   <h2>Oculus</h2>
   <a href="/oculus/pyroculus/5.0/README.md">✅pyroculus ver5.0</a></br>
@@ -56,10 +57,12 @@
   <a href="/puzzle/natlan/monetoo/5.2/README.md">Natlan's monetoo ver5.2</a></br>
   <a href="/puzzle/natlan/monetoo/5.5/README.md">Natlan's monetoo ver5.5</a></br>
   <a href="/puzzle/ancientSacred/monetoo/README.md">AncientSacred's monetoo ver5.5</a></br>
+  <a href="/puzzle/natlan/monetoo/5.8/README.md">Natlan's monetoo ver5.8</a></br>
   <a href="/puzzle/natlan/TimeTrialChallenge/5.0/README.md">Natlan's Time Trial Challenge ver5.0</a></br>
   <a href="/puzzle/natlan/TimeTrialChallenge/5.2/README.md">⚠︎Natlan's Time Trial Challenge ver5.2</a></br>
   <a href="/puzzle/natlan/TimeTrialChallenge/5.5/README.md">⚠︎Natlan's Time Trial Challenge ver5.5</a></br>
   <a href="/puzzle/ancientSacred/challenge/README.md">⚠︎AncientSacred challenge ver5.5</a></br>
+  <a href="/puzzle/natlan/TimeTrialChallenge/5.8/README.md">Natlan's Time Trial Challenge ver5.8</a></br>
   <a href="/puzzle/ancientSacred/oozingCore/README.md">AncientSacred's oozingCore ver5.5</a></br>
   <a href="/puzzle/ancientSacred/pulverite/README.md">AncientSacred's pulverite ver5.5</a></br>
   <a href="/puzzle/natlan/5.5/pulverite/README.md">Natlan's pulverite ver5.5</a></br>
