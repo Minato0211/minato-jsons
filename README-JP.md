@@ -1,3 +1,5 @@
+> [!WARNING]  
+> 注意: UNI ユーザーは必ずアーカイブ版を使用してください！ releaseタブをチェックしてね~
 <body>
   <div align="center">
     <img src="https://c.tenor.com/tEbjIWKMCYoAAAAC/tenor.gif">
